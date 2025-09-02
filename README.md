@@ -1,6 +1,6 @@
 # tdd-with-python-example
 
-Basic Example of TDD with python
+Basic Example of TDD with python posted on Substack: https://open.substack.com/pub/dougecomp/p/tdd-desenvolvendo-com-testes-em-primeiro
 
 ## Install poetry
 
